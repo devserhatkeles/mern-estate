@@ -25,8 +25,6 @@ const Header = () => {
             <Link to="/sign-in">
             <li className="text-slate-700 hover:underline cursor-pointer">Sign in</li>
             </Link>
-            
-            
         </ul>
       </div>
     </header>
